@@ -1,9 +1,7 @@
 #!/bin/bash
 
-#nome:Filipe Oliveira.
 #curso: Analista de Dados:
-#diciplina: linux
-#data: 18/02/2026
+#diciplina: github
 
 # calculadora linux para python3:
  
