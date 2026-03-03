@@ -27,7 +27,7 @@ define que o script será executado usando o interpretador bash
 1 comentários iniciais
 #nome: Filipe Oliveira 
 #curso: Analista de dados
-#diciplina: Linux
+#diciplina: Linux_github
 
 são comentarios informativos sobre o autor e contexto do projeto.
 
